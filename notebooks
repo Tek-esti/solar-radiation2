@@ -1,0 +1,5 @@
+import pandas as pd  
+#input csv file
+#Load csv file into a pandas dataframe
+dataFrame=pd.read_csv(r"C:\Users\abdu fraka\Desktop\data (1)\data.csv")
+
